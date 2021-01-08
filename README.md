@@ -1,2 +1,2 @@
-# cs-code
-code for pf class
+# Cpp-code
+code for Programming fundamentals class
